@@ -1,0 +1,12 @@
+//        String url = "https://www.yandex.ru/images/";
+//        String url = "https://www.yandex.ru/";
+//        String url = "http://www.otakuusamagazine.com/japanese-fans-rank-best-anime-characters-2017/";
+
+//        String file = "http://www.otakuusamagazine.com/wp-content/uploads/2018/03/danmachigame-202x202.png";
+//        String file = "https://avatars.mds.yandex.net/get-pdb/38069/68255444-72fd-4855-8865-6e31043b408f/s280";
+//        String file = "http://www.otakuusamagazine.com/wp-content/uploads/2017/12/HR02_067-02.mov.jpg";
+
+url = http://www.otakuusamagazine.com/japanese-fans-rank-best-anime-characters-2017/
+url = https://www.yandex.ru
+path = images
+limit = 100
